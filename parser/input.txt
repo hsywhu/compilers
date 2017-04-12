@@ -1,0 +1,7 @@
+apple=3;
+orange=5;
+if(apple>0){
+if(orange<4){
+orange=(apple+2)*7;
+}
+}#
