@@ -1,2 +1,2 @@
 # compilers
-My "Principles of Compilers"'s homework.
+My practice on "Principles of Compilers".
