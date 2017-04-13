@@ -28,7 +28,7 @@ D::=x
 ```
 
 The result shows like this:
-![image](https://github.com/hsywhu/compilers/blob/grammar-analyzer/grammar%20analyzer/screenshot.png)
+![image](https://github.com/hsywhu/compilers/blob/master/grammar%20analyzer/screenshot.png)
 
 ##Note
 
