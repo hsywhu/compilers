@@ -3,7 +3,7 @@
 ---
 This is a simple grammar analyzer.It can help you justify which type of grammar it is by analyzing your inputs.
 
-##How to use
+#How to use
 
 At first you will be asked to input a name for the grammar you are going to analyze.
 
@@ -11,7 +11,7 @@ Secondly you should input the Nonterminal Symbols and the Production Rules.
 
 The Terminal Symbols have been set beforehand, ands you can easily do some change of that at the very beginning of the code.
 
-##Example
+#Example
 
 I can show you an example.
 
@@ -30,7 +30,7 @@ D::=x
 The result shows like this:
 ![image](https://github.com/hsywhu/compilers/blob/master/grammar%20analyzer/screenshot.png)
 
-##Note
+#Note
 
 Be careful to split the Production Rules with a **Comma** and type **Enter** when you finish.
 
